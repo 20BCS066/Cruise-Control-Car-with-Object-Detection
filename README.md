@@ -1,0 +1,2 @@
+# Cruise-Control-Car-with-Object-Detection
+In this project, a Cruise Controlled Car using Arduino Mega, Ultrasonic Sensors, IR sensors and Motor driver. The  Cruise Control and Object Detection technology, which minimizes the driver's driving problems. The ACC system on the road essentially supports driving modes and manages the vehicle's acceleration and deceleration in order to maintain a fixed speed or avoid an accident.
